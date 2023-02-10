@@ -8,6 +8,7 @@
 🔎 "Aqui colocarei alguns projetos e anotações para meus estudos, meus testes e construções de novos conhecimentos. 🔍"
 
 
+
 ...
 
  printf("Obs: Desculpe a bagunça <3 ");
