@@ -1,16 +1,9 @@
 ## Oiee, sou a Kaw Monteiro 👾
 
-📚 Estudando: Análise e Desenvolvimento de Software📚
-
-(Universidade Cruzeiro do Sul - Alura - Livros..)
+📚 Estudando📚
 
 🔎Sempre em busca de novos conhecimentos e aprimoramentos🔍
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kawane-monteiro-b51145254/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/2/#inbox?compose=GTvVlcSKhbsJsNQJPjGjgMMsnrbcNKBTtSSQmhQQKffWhHGVJrCfBfWGbHBhXKbQJnwVzVCvDGJfm)
-
-![Kaw GitHub stats](https://github-readme-stats.vercel.app/api?username=KawMon&show_icons=true&theme=dracula)
 
 ## Tecnologias que uso no meu dia
 
