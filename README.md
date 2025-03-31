@@ -1,4 +1,4 @@
-## Oiee, sou a Kaw Monteiro 👾
+## Oiee, sou a Kaw 👾
 
 📚 Estudando📚
 
